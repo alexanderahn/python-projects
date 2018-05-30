@@ -1,3 +1,5 @@
+#Functions
+
 #A function that accepts the name of a file and returns a tuple containing the number of lines, words, and characters that are in the file.
 
 def filecount(filename):

@@ -1,3 +1,5 @@
+#try/except
+
 #Determines whether an arbitrary text string can be converted to a number.
 
 def convert_to_num(string):

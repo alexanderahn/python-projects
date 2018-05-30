@@ -1,3 +1,5 @@
+#Classes and Object-Oriented Programming
+
 #A simple Rectangle class that:
 #-Accepts length and width as parameters when creating a new instance
 #-Has a perimeter method that returns the perimeter of the rectangle

@@ -1,3 +1,5 @@
+#Modules
+
 #A regular expression that matches strings that are either all lower case or all upper case.
 
 regexp = re.findall(r'([A-Z][A-Z]+|[a-z][a-z]+)', st)
